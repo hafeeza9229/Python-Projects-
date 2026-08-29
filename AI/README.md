@@ -1,7 +1,7 @@
 
 ---
 
-# 2. AI — `AI/README.md`
+# AI — `AI/README.md`
 
 ```markdown
 # AI Projects
